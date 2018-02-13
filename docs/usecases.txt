@@ -1,3 +1,4 @@
+
 ## Testers
 1. Execute smoke tests on permise on cloud deployments	
 
@@ -7,3 +8,4 @@
 2. Deploy the code to tomcat server
 3. use any configarstion management tool for achiving this
 >>>>>>> 8ab72b13290aa41f6f488b7acf75c0bb593c8a42
+4.create a dockerfile also for this
