@@ -1,5 +1,7 @@
 ## Testers
 1. Execute smoke tests on permise on cloud deployments	
+2. Execute seliniam automated tests
+3. Add thrm to CI
 
 ## DevOps
 
